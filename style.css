@@ -108,6 +108,9 @@ position: absolute;
     width: 126px;
     border-radius: 37px;
  }
+ .cards-maps-wrapper .cards-section .row .col-md-4 { 
+ 
+}
  .cards-maps-wrapper .cards-section .row .col-md-4 .card{ 
     border-radius: 12px;
  }
@@ -153,8 +156,13 @@ position: absolute;
     height: 186px;
     border-radius: 12px;
  }
+ .publishment-article .row .col-md-4  {
+   width: auto;
+   padding: 6px;
+}
  .publishment-article .col-md-4 .card {
     background-color: transparent;
+    width: auto;
  }
  
  .publishment-article .col-md-4 .card h6:hover{
@@ -196,6 +204,10 @@ footer .footer ul li{
 }
 footer .footer ul li:hover{
    color: #222;
+}
+footer .footer .row .col-md-3 {
+   width:25% ;
+   
 }
 footer .footer .col-md-3 .card{
    border-radius: 12px;
